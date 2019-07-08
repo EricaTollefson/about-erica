@@ -1,0 +1,48 @@
+.header {
+	color: darkorange;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 25px;
+	text-decoration: underline;
+}
+
+p {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	color: dimgray;
+	padding-bottom: 8px;
+}
+
+h3 {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	color: dimgray;
+}
+
+.html-list {
+	list-style-type: circle;
+}
+
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	color: dimgray;
+}
+
+.center-list {
+	width: 20%;
+	list-style-position: inside;
+	text-align: left;
+	display: inline-block;
+	padding-bottom: 8px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
